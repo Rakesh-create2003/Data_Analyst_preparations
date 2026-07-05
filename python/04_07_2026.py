@@ -355,10 +355,10 @@ person={
 # print(person)
 
 # Looping Through and Getting Values
-for values in person:
-    # print(values)  # Accessing key-value pairs   
-    # print(person[values])  # Accessing value by key
-    print(values,":",person[values])  # Accessing key-value pairs
+# for values in person:
+#     # print(values)  # Accessing key-value pairs   
+#     # print(person[values])  # Accessing value by key
+#     print(values,":",person[values])  # Accessing key-value pairs
 
 
 
